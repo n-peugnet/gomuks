@@ -19,8 +19,8 @@ package tstring
 import (
 	"github.com/mattn/go-runewidth"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 )
 
 type Cell struct {

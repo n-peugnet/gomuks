@@ -27,7 +27,7 @@ import (
 	_ "golang.org/x/image/tiff" // initialize decoder
 	_ "golang.org/x/image/webp" // initialize decoder
 
-	"go.mau.fi/tcell"
+	"github.com/gdamore/tcell/v2"
 
 	"maunium.net/go/gomuks/debug"
 	"maunium.net/go/gomuks/ui/messages/tstring"

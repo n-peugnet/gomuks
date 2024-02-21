@@ -22,8 +22,8 @@ import (
 
 	"github.com/zyedidia/clipboard"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 
 	ifc "maunium.net/go/gomuks/interface"
 )

@@ -26,8 +26,8 @@ import (
 	"maunium.net/go/mautrix/event"
 	"maunium.net/go/mautrix/id"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 
 	"maunium.net/go/gomuks/config"
 	"maunium.net/go/gomuks/debug"

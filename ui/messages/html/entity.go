@@ -17,8 +17,8 @@
 package html
 
 import (
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 )
 
 // AdjustStyleFunc is a lambda function type to edit an existing tcell Style.

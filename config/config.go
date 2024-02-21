@@ -32,8 +32,8 @@ import (
 	"maunium.net/go/mautrix/id"
 	"maunium.net/go/mautrix/pushrules"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/cbind"
-	"go.mau.fi/tcell"
 
 	"maunium.net/go/gomuks/debug"
 	"maunium.net/go/gomuks/matrix/rooms"

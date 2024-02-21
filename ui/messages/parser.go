@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"go.mau.fi/tcell"
+	"github.com/gdamore/tcell/v2"
 
 	"maunium.net/go/mautrix/event"
 	"maunium.net/go/mautrix/id"

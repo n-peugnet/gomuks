@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 )
 
 type PasswordModal struct {

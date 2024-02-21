@@ -18,8 +18,8 @@ package html
 import (
 	"fmt"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 )
 
 type BaseEntity struct {

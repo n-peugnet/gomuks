@@ -24,8 +24,8 @@ import (
 
 	sync "github.com/sasha-s/go-deadlock"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 
 	"maunium.net/go/mautrix/id"
 

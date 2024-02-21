@@ -24,8 +24,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/gdamore/tcell/v2"
 	"go.mau.fi/mauview"
-	"go.mau.fi/tcell"
 
 	"maunium.net/go/mautrix/crypto"
 	"maunium.net/go/mautrix/event"

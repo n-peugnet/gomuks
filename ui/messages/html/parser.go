@@ -29,7 +29,7 @@ import (
 	"golang.org/x/net/html"
 	"mvdan.cc/xurls/v2"
 
-	"go.mau.fi/tcell"
+	"github.com/gdamore/tcell/v2"
 
 	"maunium.net/go/mautrix/event"
 	"maunium.net/go/mautrix/id"
